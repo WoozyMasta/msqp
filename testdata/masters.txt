@@ -1,0 +1,57 @@
+# Community and historical masters. Uncommented entries are queried by msqp_live tests.
+# The test checks protocol validity and at least one returned server,
+# not a fixed server count.
+
+# Recently observed by a public master-server monitor.
+ms3.ip-games.ru:27010
+
+# Listed as current community candidates,
+# but did not answer during the last verification run;
+# keep disabled until they are confirmed again.
+# ms.gs4u.net:27010
+# ms.tsarvar.com:27010
+# 88.198.47.43:27011
+
+# Additional monitor candidates; keep disabled until independently verified.
+# 88.218.206.151:27010
+# eurasia.rubitnet.ru:27010
+# mscs.com.ua:27010
+# cs-megaboost.ru:27011
+
+# Official Valve endpoints are historical/uncertain and are not CI targets.
+# hl2master.steampowered.com:27011
+# hl2master.steampowered.com:27015
+# hl1master.steampowered.com:27010
+# hl1master.steampowered.com:27011
+
+# Historical physical Valve Source addresses; retained as protocol references.
+# 208.64.200.39:27011
+# 208.64.200.52:27011
+# 208.64.200.65:27015
+# 208.64.201.193:27011
+# 208.64.201.194:27011
+
+# Historical physical Valve GoldSrc addresses; not expected to be live.
+# 208.64.200.117:27011
+# 208.64.200.118:27011
+
+# Older 2009-2010 Valve configuration; useful only as historical fixtures.
+# 68.142.72.250:27010
+# 72.165.61.136:27010
+# 69.28.151.162:27013
+# 72.165.61.189:27010
+# 72.165.61.136:27012
+# 72.165.61.136:27014
+# 72.165.61.151:27012
+# 72.165.61.136:27011
+# 72.165.61.151:27015
+# 72.165.61.136:27013
+# 72.165.61.151:27013
+# 72.165.61.151:27014
+# 72.165.61.189:27011
+# 72.165.61.151:27011
+# 69.28.140.247:27011
+# 69.28.140.246:27011
+# 72.165.61.189:27012
+# 68.142.72.250:27011
+# 72.165.61.136:27009
